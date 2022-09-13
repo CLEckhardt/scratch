@@ -128,3 +128,7 @@ in Rust!
   [Jon Gjenset and the Pimemagen](https://youtu.be/xO2xyBfhKDY?t=1647) or
   [Niko Matsakis](http://www.smallcultfollowing.com/babysteps/blog/2022/06/13/async-cancellation-a-case-study-of-pub-sub-in-mini-redis/)
 
+## State of async in Rust
+
+Check out the
+[async update from RustConf 2022](https://www.youtube.com/watch?v=tHrvYtPNAHA)!
